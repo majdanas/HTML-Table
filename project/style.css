@@ -1,0 +1,56 @@
+.logo-container {
+  display: flex;
+  justify-content: center;
+  height: fit-content;
+}
+img {
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.table-container {
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  gap: 20px;
+}
+.legendas {
+  width: 300px;
+}
+table {
+  width: 100%;
+}
+th {
+  height: 15px;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+td {
+  width: 100px;
+  padding: 15px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.x {
+  background-color: orange;
+}
+td {
+  background-color: white;
+}
+.F {
+  background-color: aquamarine;
+}
+.M {
+  background-color: red;
+}
+.P {
+  background-color: yellow;
+}
+.I {
+  background-color: green;
+}
