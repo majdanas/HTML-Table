@@ -38,19 +38,23 @@ td {
 }
 .x {
   background-color: orange;
+  color: aquamarine;
 }
 td {
   background-color: white;
 }
 .F {
   background-color: aquamarine;
+  color:orange;
 }
 .M {
   background-color: red;
+  color:yellow;
 }
 .P {
-  background-color: yellow;
+  background-color:yellow;
+  color:red;
 }
 .I {
-  background-color: green;
-}
+  background-color:green;
+color:blue;}
